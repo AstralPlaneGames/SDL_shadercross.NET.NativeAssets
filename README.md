@@ -1,3 +1,3 @@
 # SDL_shadercross.NET.NativeAssets
 
-Package wraps native binaries for SDL_shadercross.NET
+.NET wrapper of SDL_shadercross native libs for StarWorks.
