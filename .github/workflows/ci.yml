@@ -20,4 +20,4 @@ jobs:
         with:
           name: ${{ github.event.repository.name }} Artifacts
           path: |
-            SDL_shadercross.NET.NativeAssets/bin/Release/*.nupkg
+            bin/Release/*.nupkg
