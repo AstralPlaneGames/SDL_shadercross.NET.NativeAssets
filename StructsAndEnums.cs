@@ -1,4 +1,4 @@
-namespace SDL_shadercross.NET.NativeAssets
+namespace StarWorks.SDL_shadercross.NativeAssets
 {
 
 }

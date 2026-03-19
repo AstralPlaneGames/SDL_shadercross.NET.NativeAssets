@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFrameworks>net9.0;net9.0-windows;net9.0-android;net9.0-ios;net9.0-tvos</TargetFrameworks>
-    <RootNamespace>SDL_shadercross.NET.NativeAssets</RootNamespace>
+    <RootNamespace>StarWorks.SDL_shadercross.NativeAssets</RootNamespace>
     <EnableDefaultItems>false</EnableDefaultItems>
     <VersionPrefix>1.0.0</VersionPrefix>
     <VersionSuffix></VersionSuffix>
@@ -9,13 +9,13 @@
 
   <PropertyGroup>
     <PackageProjectUrl>https://github.com/AstralPlaneGames/StarWorks</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/AstralPlaneGames/SDL_shadercross.NET.NativeAssets</RepositoryUrl>
+    <RepositoryUrl>https://github.com/AstralPlaneGames/StarWorks.SDL_shadercross.NativeAssets</RepositoryUrl>
     <Authors>ryancheung</Authors>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Description>.NET 9 wrapper of SDL_shadercross native libs for StarWorks.</Description>
     <PackageTags>sdl;net9</PackageTags>
-    <PackageId>SDL_shadercross.NET.NativeAssets</PackageId>
+    <PackageId>StarWorks.SDL_shadercross.NativeAssets</PackageId>
     <Copyright>Copyright 2026 ryancheung</Copyright>
   </PropertyGroup>
 

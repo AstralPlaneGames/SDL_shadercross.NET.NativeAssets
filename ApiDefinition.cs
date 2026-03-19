@@ -1,4 +1,4 @@
-namespace SDL_shadercross.NET.NativeAssets
+namespace StarWorks.SDL_shadercross.NativeAssets
 {
 
     // The first step to creating a binding is to add your native framework ("MyLibrary.xcframework")
